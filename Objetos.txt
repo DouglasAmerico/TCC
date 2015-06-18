@@ -10,3 +10,4 @@ endereco
 parcelas
 forma de pagamento
 tipo de produto
+	
